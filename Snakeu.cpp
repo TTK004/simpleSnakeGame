@@ -134,9 +134,9 @@ void intro()
 	gotoXY(15, 6);
 	cout << "USE DIRECTION TO CONTROL THE SNAKE";
 	gotoXY(15, 8);
-	cout << "GAME OVER WHEN THE SNAKE BITE ITSELF";
+	cout << "GAME OVER WHEN THE SNAKE BITES ITSELF";
 	gotoXY(15, 10);
-	cout << "OR TOUCH THE WALL!\n";
+	cout << "OR TOUCH THE WALL!!\n";
 	SetColor(7);
 	system("pause");
 	system("cls");
