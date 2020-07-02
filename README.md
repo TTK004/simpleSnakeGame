@@ -1,6 +1,7 @@
 # simpleSnakeGame
 
 Bài tập nhóm môn Kĩ năng nghề nghiệp SS004.K24
+
 GV hướng dẫn: Nguyễn Văn Toàn
 
 SV trong nhóm:
