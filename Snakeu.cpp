@@ -126,7 +126,7 @@ void intro()
 	drawWall();
 	gotoXY(35, 15);
 	SetColor(4);
-	cout << "===========THE SNAKE GAME=============\n";
+	cout << "=============THE SNAKE GAME=============\n";
 	system("pause");
 	system("cls");
 	drawWall();
