@@ -134,9 +134,9 @@ void intro()
 	gotoXY(15, 6);
 	cout << "USE DIRECTION TO CONTROL THE SNAKE";
 	gotoXY(15, 8);
-	cout << "GAME OVER WHEN THE SNAKE BITES ITSELF";
+	cout << "GAME OVER WHEN THE SNAKE BITE ITSELF";
 	gotoXY(15, 10);
-	cout << "OR TOUCH THE WALL!!\n";
+	cout << "OR TOUCH THE WALL!\n";
 	SetColor(7);
 	system("pause");
 	system("cls");
@@ -183,7 +183,7 @@ int main()
 		handleSnake(x, y, a, b, z, t);
 		isDead = touch(x, y, x[0], y[0]);
 		
-		Sleep(300);
+		Sleep(100);
 	}
 	gotoXY(30, 15);
 	SetColor(4);
