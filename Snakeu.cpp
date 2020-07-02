@@ -183,7 +183,7 @@ int main()
 		handleSnake(x, y, a, b, z, t);
 		isDead = touch(x, y, x[0], y[0]);
 		
-		Sleep(300);
+		Sleep(250);
 	}
 	gotoXY(30, 15);
 	SetColor(4);
